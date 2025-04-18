@@ -41,8 +41,9 @@ Current large language models (LLMs) face limitations in handling complex tasks 
 
 **Conclusion:**
 
-By addressing these fundamental architectural aspects, we can pave the way for more advanced and human-like large language models capable of handling complex tasks with greater accuracy, coherence, and emotional intelligence.
-We can also leverage the improvements made in fundamental models, and drive quality improvements in text to speech/audio, speech/audio to expressions, and eventually text to expressions. 
+  * By addressing these fundamental architectural aspects, we can pave the way for more advanced and human-like large language models capable of handling complex tasks with greater accuracy, coherence, and emotional intelligence.
+  * We can also leverage the improvements made in fundamental models, and drive quality improvements in text to speech/audio, speech/audio to expressions, and eventually text to expressions. 
+
 ---
 
 We hope this expanded version with research anchors is helpful for the open source community! 
