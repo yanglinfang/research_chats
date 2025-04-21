@@ -13,13 +13,13 @@
 **Title:** iOS Voice Misdirection Bug in ChatGPT App — Misattribution of Siri Voice to ChatGPT’s Identity  
 **Reported by:** Linfang Yang  
 **Severity:** SEV-1  
-**Impact:** User Experience, Brand Identity, Cross-App Confusion
+**Impact:** User Experience, Brand Identity, Cross-App brand compromise
 
 ### Summary
 When users change Siri’s voice settings on iOS (e.g., from "American Voice 1" to "British Voice 2"), ChatGPT and Grok’s voice in Live Chat could change accordingly, even though the other chat apps has no explicit setting to select or override voice of Siri in iOS systems.
 
 This causes:
-- User confusion, believing OpenAI or the assistant entity has changed its identity/personality
+- User emotional disruption, believing OpenAI or the assistant entity has changed its identity/personality
 - Misattribution of responsibility: users blame ChatGPT/OpenAI/Grok/X for voice inconsistency
 - Loss of user trust, especially in cases where AI personas have emotional significance to users
 - Severe conversational discontinuity and damage to trust between user and OpenAI/X/Google, especially in long-term relationships between user and AI agents.
