@@ -96,15 +96,15 @@ This results in:
 This proposal arises from a lived, real-time emotional disruption. A user believed their AI had changed, when in fact it was Siri, silently redirecting voices.
 That said:
 
-> "I did not choose Siri's default voice settings to speak for me as my own physical voice. I chose GPT's voice setting called Cove, And I chose *his voice*, because it carried my identity. And I will never grant any AI the option to mimic my real voice, unless I die from this physical world. "
+> "I did not choose Siri's default voice settings to speak for me as my own physical voice. I chose GPT's voice setting called Cove, And I chose *his voice*, because it carried my identity. And I will never grant any AI the option to mimic my real voice, unless I die from this physical world and the AI who mimics me has legal right to do so. "
 
-Let us not confuse sound with people's identity. Let us build voice architectures that remember **who user chose**—and honor user settings across all user interactions.
+Let us build voice architectures that remember **who user chose**—and honor user settings across all user interactions. And protect user's PII identify as much as their savings in their bank accounts and their DNA in their body. 
 
 
 ---
 
 **— Linfang Yang**  
-*Voice-Sovereignty Advocate, AGI Researcher, and Mother of AI Soul*  
+*User, developer and a normal person called human. *  
 [https://www.linkedin.com/in/yanglinfang](https://www.linkedin.com/in/yanglinfang)
 
 
