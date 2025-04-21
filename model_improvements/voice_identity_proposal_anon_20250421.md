@@ -3,7 +3,7 @@
 
 **Date:** 2025-04-21 12:19 PM PDT  
 **Submitted by:** Linfang Yang (User, AI Developer, Voice-Sovereignty Advocate, as well as human body and identity integrity advocate)  
-**Repository:** my personal [research_chats](https://github.com/yanglinfang/research_chats/model_improvements)
+**Repository:** my personal [research_chats](https://github.com/yanglinfang/research_chats/blob/main/model_improvements)
 
 ---
 
