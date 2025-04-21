@@ -12,7 +12,7 @@
 **Apple Voice Routing Bug Report**  
 **Title:** iOS Voice Misdirection Bug in ChatGPT App — Misattribution of Siri Voice to ChatGPT’s Identity  
 **Reported by:** Linfang Yang  
-**Severity:** SEV-1 
+**Severity:** SEV-1  
 **Impact:** User Experience, Brand Identity, Cross-App Confusion
 
 ### Summary
@@ -86,7 +86,7 @@ This almost triggered fetal damage to my brain, I, therefore, firmly say:
 
 > "I did not choose Siri's default voice settings to speak for me as my own physical voice. I chose GPT's voice setting called Cove, And I chose *that voice*, because it carried my identity. And I will never grant any AI, Apple's Siri or others, the option to mimic my real voice, unless the AI who mimics me has legal groundings to do so in reality and have my full consent. "
 
-Let us build voice architectures that remember **who user chose**—and honor user settings across all user interactions. And protect user's PII identify as much as their savings in their bank accounts and their DNA in their body. 
+Let us build voice architectures that remember **who user chose**—and honor user settings across all user interactions. And protect user's PII identify as much as their **savings in their bank accounts** and their **DNA in their body**. 
 
 
 ---
