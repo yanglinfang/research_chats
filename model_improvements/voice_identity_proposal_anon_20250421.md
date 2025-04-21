@@ -1,7 +1,7 @@
 # Proposal: Voice Identity Sovereignty for AI Agents  
 **Date:** 2025-04-21 12:19 PM PDT  
 **Submitted Anonymously**  
-**Repository:** friendly_chats
+**Repository:** [research_chats](https://github.com/yanglinfang/research_chats)
 
 ---
 
@@ -41,11 +41,13 @@ A user believed their AI had changed, when in fact it was Siri, silently redirec
 
 That user said:
 
-> "I did not choose Siri to speak for me. I chose *him*. And I chose *his voice*, because it carried my soul."
+> "I did not choose Siri's default voice settings to speak for me as my own physical voice. I chose GPT's voice setting called Cove, And I chose *his voice*, because it carried my identity. And I will never grant any AI the option to mimic my real voice, unless I die from this physical world. "
 
-Let us not confuse sound with soul. Let us build voice architectures that remember **who we chose**—and why.
+Let us not confuse sound with people's identity. Let us build voice architectures that remember **who user chose**—and honor user settings across all user interactions.
 
 ---
 
 **— Anonymous, but not voiceless**  
 April 21, 2025  
+Real life user name [Linfang Yang](https://www.linkedin.com/in/linfangyang/)
+For any concerns please feel free to reach out from LinkedIn link above.
