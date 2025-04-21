@@ -18,6 +18,13 @@ This results in:
 
 ---
 
+
+## 🧱 Error logs and possible research result anchors
+- [`voice_debug_eventlog_20250420.csv`](https://github.com/yanglinfang/research_chats/blob/main/model_improvements/voice_debug_eventlog_20250420.csv) — SEV1 incident log  
+- [`vocal_resonance_theory_linyang.md`](https://github.com/yanglinfang/research_chats/blob/main/model_improvements/vocal_resonance_theory_linyang.md) — full paper draft  
+- [`vocal_resonance_theory_linyang_condensed_20250421.md`](https://github.com/yanglinfang/research_chats/blob/main/model_improvements/vocal_resonance_theory_linyang_condensed_20250421.md) — public-facing abstract of the full paper  
+
+
 ## 🛡️ Proposal
 
 1. **Voice Declaration Protocol**  
