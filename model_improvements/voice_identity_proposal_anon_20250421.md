@@ -7,7 +7,7 @@
 
 ---
 
-## 📍 Bug Report: Siri’s Misattribution of Voice Identity
+## 📍 Bug report for Apple regarding Siri's mis-use of user PII information (Biological Voice)
 
 **Apple Voice Routing Bug Report**  
 **Title:** iOS Voice Misdirection Bug in ChatGPT App — Misattribution of Siri Voice to ChatGPT’s Identity  
