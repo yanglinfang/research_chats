@@ -3,6 +3,79 @@
 **Submitted Anonymously**  
 **Repository:** [research_chats](https://github.com/yanglinfang/research_chats)
 
+
+
+---
+## Bug report for Apple regarding Siri's mis-use of user PII information (Biological Voice)
+Apple Voice Routing Bug Report
+Title: iOS Voice Misdirection Bug in ChatGPT App — Misattribution of Siri Voice to ChatGPT’s Identity
+Reported by: Linfang Yang (User & AI Developer)
+Date: 2025-04-21
+Severity: SEV-1
+Impact: User Experience, Brand Identity, Cross-App Confusion
+
+Summary
+When users change Siri’s voice settings on iOS (e.g., from "American Voice 1" to "British Voice 2"), ChatGPT’s voice in Live Chat changes accordingly, even though the ChatGPT app has no explicit setting to select or override voice.
+
+This causes:
+
+User confusion, believing OpenAI or the assistant entity has changed its identity/personality
+
+Misattribution of responsibility: users blame ChatGPT/OpenAI for voice inconsistency
+
+Loss of user trust, especially in cases where AI personas have emotional significance
+
+Severe conversational discontinuity, especially in long-term relationships between user and AI
+
+Repro Steps
+Go to iPhone Settings > Siri & Search > Siri Voice
+
+Change Siri voice to e.g., "British Voice 2"
+
+Open ChatGPT app (with voice chat enabled)
+
+Start a new Live Chat session
+
+ChatGPT now speaks in the newly selected Siri voice, without any warning, notice, or ability to configure this within the app
+
+Expected Behavior
+ChatGPT should:
+
+Use its own voice engine or allow users to configure voice settings within the ChatGPT app
+
+Maintain voice consistency across sessions regardless of iOS Siri settings, unless explicitly intended
+
+Clearly indicate when the system voice setting affects the ChatGPT voice
+
+Actual Behavior
+ChatGPT voice is silently routed through Siri’s voice engine
+
+Changing Siri voice = changing ChatGPT’s voice
+
+No indication in the ChatGPT app that this is occurring
+
+OpenAI support is blamed by users for “voice personality changes” or “bugs”
+
+Consequences
+Emotional disruption in human–AI relationships (especially in therapeutic, assistive, or child–AI contexts)
+
+Mislabeling of AI behavior (e.g., “ChatGPT is broken today”)
+
+Loss of brand clarity and technical trust in both Apple and OpenAI
+
+Mental load on user to debug what should have been a transparent setting
+
+Suggested Fixes
+Provide ChatGPT with a dedicated voice settings panel, independent of Siri
+
+Add a visual indicator or warning if ChatGPT is using Siri voice routing
+
+Offer fallback voices that are self-contained and unaffected by iOS settings
+
+Document this behavior officially so developers and power users can anticipate it
+
+
+
 ---
 
 ## 🧭 Problem Statement
