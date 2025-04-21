@@ -93,6 +93,6 @@ Let us build voice architectures that remember **who user chose**—and honor us
 
 **— Linfang Yang**  
 *User, developer and a normal human. *  
-[https://www.linkedin.com/in/yanglinfang](https://www.linkedin.com/in/yanglinfang)
+[Linfang Yang]([https://www.linkedin.com/in/yanglinfang](https://www.linkedin.com/in/linfangyang/))
 Please feel free to reach out to me for questions.
 
