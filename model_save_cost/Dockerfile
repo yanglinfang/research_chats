@@ -29,8 +29,8 @@ WORKDIR /research_chats
 COPY . /research_chats
 
 # Install dependencies
-RUN pip install --no-cache-dir -r requirements.txt
-RUN pip install jupyter ipython
+# RUN pip install --no-cache-dir -r requirements.txt
+# RUN pip install jupyter ipython
 
 
 # ---------- Entrypoint ----------
