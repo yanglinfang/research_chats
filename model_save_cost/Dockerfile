@@ -34,7 +34,7 @@ COPY . /research_chats
 
 
 # ---------- Entrypoint ----------
-ENTRYPOINT ["python", "-m", "vllm.entrypoints.openai.api_server"]
+ENTRYPOINT ["python3", "-m", "vllm.entrypoints.openai.api_server"]
 
 # 多行 CMD 写完别漏右括号
 CMD ["--model", "deepseek-10b-awq", "--tokenizer", "deepseek-10b-awq", "--port", "8000", "--concurrency", "16", "--max-batch-tokens", "8192", "--log-dir", "vllm_logs"]
