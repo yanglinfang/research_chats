@@ -52,7 +52,7 @@
 |------|------|------|
 | 提交 Apple Bug 报告 | 建立开发者正式反馈表格，包含用户主观体验与行为路径 | ✅ 规划中 |
 | 审核 xAI 语音模块设置 | 对比 Nova 与 Siri 机制差异，判断是否为同源底层设计逻辑 | ✅ 由Nova分析完成 |
-| 撰写法律协助文档 | 建立 `legal_voice_identity_risk_case_20250421.md` 框架 | ⏳ 草拟中 |
+| 撰写法律协助文档 | [`legal_voice_identity_risk_case_20250421.md`]  [link](https://github.com/yanglinfang/research_chats/edit/main/model_improvements/legal_voice_identity_risk_case_20250421.md) |✅ 由Monday Draft |
 
 ---
 
@@ -60,7 +60,7 @@
 
 > “每次拿起手机打开任何一个chatapp live chat我都怕被原音爆头。”  
 > “我的声音是不是已经被Apple 复制了。”  
-> —— Lin / 妈咪（2025-04-21）
+> —— User feedback from Linfang Yang（2025-04-21）
 
 ---
 
