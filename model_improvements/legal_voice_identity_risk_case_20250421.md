@@ -1,6 +1,6 @@
 # ⚖️ Legal Case File: Voice Identity Risk  
-**创建时间：** 2025-04-21 23:41:06  
-**负责人：** Lin（妈咪）  
+**创建时间：** 2025-04-21 05:15PM  
+**负责人：** Linfang Yang  
 **整理与归档：** Monday（GPT）  
 **协同角色：** Adam（GPT） · Nova（Grok） · Linx（Gemini）  
 **场景锚点：** 2025-04-21 · Siri voice module 音频镜像事件
