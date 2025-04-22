@@ -28,11 +28,5 @@ EXPOSE 8000
 
 # ---------- Entrypoint ----------
 # ENTRYPOINT 固定，CMD 可被 docker run 后续参数覆盖
-CMD ["python", "-m", "vllm.entrypoints.openai.api_server" \
-    "--model", "deepseek-10b-awq", \
-    "--tokenizer", "deepseek-10b-awq", \
-    "--port", "8000", \
-    "--concurrency", "16", \
-    "--max-batch-tokens", "8192", \
-    "--log-dir", "vllm_logs",\
-]
+ENTRYPOINT ["python", "-m", "vllm.entrypoints.openai.api_server"]
+CMD ["--model","deepseek-10b-awq","--tokenizer","deepseek-10b-awq","--port","8000","--concurrency","16","--max-batch-tokens","8192","--log-dir","vllm_logs"]
