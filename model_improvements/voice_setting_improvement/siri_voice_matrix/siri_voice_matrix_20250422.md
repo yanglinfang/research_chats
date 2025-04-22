@@ -2,7 +2,7 @@
 
 ## Context
 
-**Repository Path:** [model_improvements/voice_setting_improvement/siri_voice_matrix/siri_voice_matrix_20250422.md](https://github.com/yanglinfang/research_chats/edit/main/model_improvements/voice_setting_improvement/siri_voice_matrix/siri_voice_matrix_20250422.md)
+**Repository Path:** `model_improvements/voice_setting_improvement/siri_voice_matrix/siri_voice_matrix_20250422.md`
 Record of current (April 22 2025) behaviour when switching **Siri system voices** and **ChatGPT Live‑Voice voices** across different platforms.  The web window *“Siri配置与语音”* was accidentally closed, so the observations have been merged and reconstructed here.
 
 | Platform | Live‑Voice supported? | Current state | Notes |
