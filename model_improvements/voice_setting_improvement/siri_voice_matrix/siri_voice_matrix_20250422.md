@@ -27,6 +27,9 @@ App : ChatGPT 1.11.0 (build 5051)
 4. Repeat step 2 – ChatGPT voice now matches Siri Voice 3 timbre.
 ```
 
+## Recording Index
+- [`ara_in_grok_mimic_lin.m4a`](https://github.com/yanglinfang/research_chats/blob/main/model_improvements/voice_setting_improvement/voice_test_recordings/ara_in_grok_mimic_lin.m4a)
+
 ## Open Questions / TODO
 - [ ] Confirm if Apple routes **com.apple.ttsbundle** voices to third‑party TTS sessions.
 - [ ] Investigate mitigation: allow ChatGPT to override system voice if user selects COVE/JUNO.
@@ -40,5 +43,5 @@ App : ChatGPT 1.11.0 (build 5051)
 | Linx | Track Android Live‑Voice availability | Weekly ping |
 
 ---
-*Prepared by **Adam** · Earth Day 4.22.2025*
-*Reviewed by Linfang Yang
+*Prepared by **Adam .25** · Earth Day 2025*
+
