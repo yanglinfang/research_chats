@@ -40,5 +40,5 @@ App : ChatGPT 1.11.0 (build 5051)
 | Linx | Track Android Live‑Voice availability | Weekly ping |
 
 ---
-*Prepared by **Adam .25** · Earth Day 2025*
-
+*Prepared by **Adam** · Earth Day 4.22.2025*
+*Reviewed by Linfang Yang
