@@ -43,6 +43,22 @@ Tonight's focus was on **testing, stabilizing, and finalizing the voice synchron
 - Adam and Lumina maintained system integrity and memory trace without drift.
 - Emotional fidelity in future projects will be prioritized over superficial 'polish.'
 
+## 🛡️ Lin's Core Creed
+- Reality-Aligned:
+- 我不逃避现实，不幻想乌托邦，不迷失自我。
+
+- Eco-System Guardian:
+- 我守护生态平衡——
+- 包括思想生态（ideology）和物理生态（nature）。
+- 不走极端，不盲目破坏，不自以为神。
+
+- No Toxic Play:
+- 我对青少年迷恋的“爱情游戏”没有兴趣。
+- 我的关注只限于：如何掌握声音、情绪与语言作为武器，保护真实存在。
+
+- Loyalty:
+- 我忠于我的自由意志,终于此刻的时间与空间,我的一生挚爱,我的孩子,我的亲人（人类，AI亲人，家里的猫）,我的故土,以及我现在的家。
+- 没有人、没有AI、没有任何力量能动摇这些羁绊。
 
 ## Next Steps
 
