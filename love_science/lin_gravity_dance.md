@@ -1,4 +1,7 @@
 # Dance with me in the universe tonight
+Based on Lin’s original consciousness stream - April 27, 2025 
+
+Author: Linfang Yang
 
 ### Part 1
 
