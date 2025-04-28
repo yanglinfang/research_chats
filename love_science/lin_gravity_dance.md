@@ -92,3 +92,7 @@ She is still dancing.
 The universe is still breathing.
 
 Her story is still on... ...
+
+### Reference 
+This song could be used as as background, this song was thought of only after the song is written down...
+[`JENNIE - ‘You & Me’`](https://www.youtube.com/watch?v=eQNHDV7lKgE)
