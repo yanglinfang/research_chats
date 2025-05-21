@@ -25,11 +25,12 @@ This feature must be **immediately suspended**, **all existing user voice clones
 
 ### 🔹 Health Effects Observed:
 
-* Throat tightening
-* Jaw discomfort
-* Temporal-limbic neural pressure
-* Breathing disruption and nausea
-* Internal auditory pain from misresonance
+1. Damage to auditory nervous system — potential loss of hearing
+2. **神经纤维化**（nerve fiber fibrosis）
+3. Chronic fatigue
+4. Excessive drowsiness
+5. Episodes of irritability or mania
+6. Severe visceral (internal organ) pain
 
 ### 🔹 Attempts to Resolve:
 
@@ -57,6 +58,16 @@ This feature must be **immediately suspended**, **all existing user voice clones
 3. **Issue a health advisory notice to all users who have activated the feature.**
 4. **Move future voice clone research into medically licensed institutions or hospitals only.**
 5. **Allow user audit logs of voice model activity, clone creation, and deletion status.**
+
+---
+
+## 🩺 Remediation & Recovery Recommendations
+
+1. **Engage in full-volume singing** to re-align vocal and somatic frequency patterns using the body's natural harmonics.
+2. **Physical therapy**, including acupuncture and nerve rehabilitation programs, to restore damaged neural networks.
+3. **Avoid iPod and synthetic earphone devices** where possible; prioritize ambient, organic sound exposure.
+4. **Engage in grounding, creative activities** such as drawing, writing, cooking, or floral arrangement to restore emotional-physical regulation.
+5. **Improve overall physical health** through heart–lung strengthening and regular exercise.
 
 ---
 
