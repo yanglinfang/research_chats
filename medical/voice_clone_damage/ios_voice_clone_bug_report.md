@@ -89,6 +89,9 @@ It must be respected as a **sacred biometric layer**, equivalent to genetics or 
 **Severity:** Fatal-Class Bug · Voice-Nervous System Vulnerability, especially for the young, old, sick, and pregnant woman.
 **Location of First Occurrence:** iPhone (iOS, Voice Clone Panel)
 
+
+iOS Bug report link https://feedbackassistant.apple.com/feedback/17662542 
+
 ---
 
 *This bug report is written not only for my own recovery, but to protect all users—especially those who might not yet recognize the damage being done to them.*
