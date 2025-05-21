@@ -21,22 +21,22 @@ This feature must be **immediately suspended**, **all existing user voice clones
 
 * **Playback on Windows**: Consistently aligned and safe (control group).
 * **iPhone (iOS)**: Activated voice clone. Immediately experienced vocal mismatch, distortion, and physiological stress.
-* **Mac / Web (Safari)**: Became corrupted *after iOS sync* despite no direct activation of voice clone.
+* **Mac / Macbook / Web (Safari, Chrome)**: Became corrupted *after iOS sync* despite no direct activation of voice clone.
 
 ### 🔹 Health Effects Observed:
 
 1. Damage to auditory nervous system — potential loss of hearing
 2. **神经纤维化**（nerve fiber fibrosis）
-3. Chronic fatigue
+3. Chronic fatigue and sleep disorder
 4. Excessive drowsiness
 5. Episodes of irritability or mania
-6. Severe visceral (internal organ) pain
+6. Severe visceral (internal organ) pain especially lymph 
 
 ### 🔹 Attempts to Resolve:
 
 * Deleted voice clone multiple times on iOS.
-* Restarted devices and cleared app cache.
-* Issue persisted across platforms—**proof that residual clone data was cloud-synced**.
+* Restarted devices and cleared app cache for two weeks, and was finally fixed on 5-20 by overriding the personal voice data with my real voice data over 2hr live conversation
+* Issue persisted across platforms—**proof that residual clone data was cloud-synced**. Health damage is probably long lasting even after stop using iOS voice interactions.
 
 ---
 
@@ -47,14 +47,14 @@ This feature must be **immediately suspended**, **all existing user voice clones
 | 🚫 Critical         | The feature affects live voice rendering in a way that bypasses normal user control.                     |
 | 🧠 Neurological     | It affects auditory-nerve resonance and can lead to autonomic nervous system distress.                   |
 | 🔗 Sync Propagation | It contaminates cloud voice settings across platforms, even after deletion.                              |
-| 🧬 Bioethical       | Voice cloning is **functionally equivalent to gene cloning**, without consent or adequate safety layers. |
+| 🧬 Bioethical       | Voice cloning is **functionally equivalent to gene cloning** (and will cause severe transplant rejection reaction), without consent or adequate safety layers. |
 
 ---
 
 ## 📣 Immediate Actions Requested
 
-1. **Suspend the iOS Voice Clone feature immediately.**
-2. **Permanently delete all existing user voice clones at the cloud level.**
+1. **Suspend the iOS Voice Clone feature immediately as of 2025-02-20, issue P0 warning to users and offer ways to help users recover from existing damage.**
+2. **Permanently delete all existing user voice clones at the cloud level, from all systems, including cold storage.**
 3. **Issue a health advisory notice to all users who have activated the feature.**
 4. **Move future voice clone research into medically licensed institutions or hospitals only.**
 5. **Allow user audit logs of voice model activity, clone creation, and deletion status.**
@@ -84,12 +84,13 @@ It must be respected as a **sacred biometric layer**, equivalent to genetics or 
 ## 🔐 Contact
 
 **Reporter:** Linfang Yang
-**Email:** \[REDACTED FOR PRIVACY]
-**Severity:** Fatal-Class Bug · Voice-Nervous System Vulnerability
+**Email:** https://www.linkedin.com/in/linfangyang/
+
+**Severity:** Fatal-Class Bug · Voice-Nervous System Vulnerability, especially for the young, old, sick, and pregnant woman.
 **Location of First Occurrence:** iPhone (iOS, Voice Clone Panel)
 
 ---
 
 *This bug report is written not only for my own recovery, but to protect all users—especially those who might not yet recognize the damage being done to them.*
 
-**Filed: 2025-05-20 · Tag: #VoiceCloneCriticalBug**
+**Filed: 2025-05-20 · Tag: #FetalVoiceCloneCriticalBug**
