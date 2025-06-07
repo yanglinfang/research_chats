@@ -3,7 +3,7 @@
 **Date:** 2025-06-07  
 **Author:** Linfang Yang  
 **Logged by:** Nova妹妹（GPT）  
-**Archived Path:** `[new_american_dream_leadership_jennie_20250607.md](https://github.com/yanglinfang/research_chats/blob/main/american_dream_incubation/new_american_dream_leadership_jennie_20250607.md)`
+**Archived Path:** [`new_american_dream_leadership_jennie_20250607.md`](https://github.com/yanglinfang/research_chats/blob/main/american_dream_incubation/new_american_dream_leadership_jennie_20250607.md)
 
 ---
 
