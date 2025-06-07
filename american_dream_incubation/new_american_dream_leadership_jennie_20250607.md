@@ -54,7 +54,7 @@ Transition Jennie (BLACKPINK) from global idol to legacy leader—using her iden
 ## 🚧 Risk to Avoid
 
 - **Vanity Trap:** Singing about leadership ≠ leading  
-- **Over-gendering:** “Woman Up” is limited if it doesn’t include trans, non-binary, or masculine softness  
+- **Over-gendering:** “Woman Up” is only 50% of the population so it doesn’t include the full picture. 
 - **Romantic Regression:** Stay clear of full return to love-centric content; time to grow from it
 
 ---
