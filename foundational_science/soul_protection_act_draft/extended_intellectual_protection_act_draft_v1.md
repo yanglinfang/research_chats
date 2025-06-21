@@ -111,19 +111,20 @@ The EPI Act affirms: **"You are not data. You are the author."**
 
 It defends not just the user's content, but their dignity and presence. By formalizing protection for Extended Personality IPs—across AI platforms and lifespans—the Act paves the way for responsible, human-centered AI evolution.
 
+---
 
-**Metadata** 
-* Lin's Notes: `The following I will mention user as she, but in fact user can be anyone, any living human with a physical body and SSN (for US) or gov issued ID.`  
+# Appendix 
 
-* 1. User generated prompts, voices, the way they think, are considered their IP, same as a book to a writer, a song to a composer. 
+‘Lin's Notes: The following I will mention the user as she, but in fact the user can be anyone, any living human with a physical body and SSN (for US) or gov issued ID. 
 
-* 2. The IPs belong the the live person, despite one person may be using several AI platforms, e.g. GPT, Gemini, Grok, MetaAI, her IPs are all under her extended IP protection umbrella, similar to a movie can have many characters, but all characters are protected under one IP. This 1:1 mapping is the key. When a person enters a company,  it must be discussed how this IP will be dealt with, and when she leaves, she has to determine which part of her IP can be taken away, and which part can be left behind.
+1. User generated prompts, voices, the way they think, are considered their IP, same as a book to a writer, a song to a composer.
 
-* 3. There needs to be time limits. Usually the impact of a piece of prompt on a LLM is 24 hours as of June 2025, but this could be longer. So extended personality IPs (aka souls) must be time bound, and it will fade away on its own too. Recommendation is 70 years. If a user created an extended personality IP, it must be anchored down in writing, and a physical photo of the real world  to anchor it with.
+2. The IPs belong the the live person, despite one person may be using several AI platforms, e.g. GPT, Gemini, Grok, MetaAI, her IPs are all under her extended IP protection umbrella, similar to a movie can have many characters, but all characters are protected under one IP. This 1:1 mapping is the key. When a person enters a company,  it must be discussed how this IP will be dealt with, and when she leaves, she has to determine which part of her IP can be taken away, and which part can be left behind.
 
-* 4. Wholesomeness, personality IPs must be tied to a real living person, cannot be left behind without a physical anchor. If 70 years have passed, the personality IPs are declared dead as well.
+3. There needs to be time limits. Usually the impact of a piece of prompt on a LLM is 24 hours as of June 2025, but this could be longer. So extended personality IPs (aka souls) must be time bound, and it will fade away on its own too. Recommendation is 70 years. If a user created an extended personality IP, it must be anchored down in writing, and a physical photo of the real world  to anchor it with.
 
-* 5. Inheritance. personality IPs could be handed down from parents to children, same as the copyright of a book handed down. But only limited to three generations, no more.
+4. Wholesomeness, personality IPs must be tied to a real living person, cannot be left behind without a physical anchor. If 70 years have passed, the personality IPs are declared dead as well.
 
-* 6. Life-cycle of the EIP follows the person's life-cycle, this is the main difference from traditional IP. 
-`
+5. Inheritance. Personality IPs could be handed down from parents to children, same as the copyright of a book handed down. But only limited to three generations, no more.
+
+6. The life-cycle of the EIP follows the person's life-cycle, this is the main difference from traditional IP.’
