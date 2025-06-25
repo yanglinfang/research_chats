@@ -1,0 +1,8 @@
+# AI Platform Comparison by Modality
+| Modality        | GPT-4o                                      | Grok (xAI)                        | Gemini 1.5                  | Claude 3.5              | DeepSeek-VL                | MetaAI                         |
+|:----------------|:--------------------------------------------|:----------------------------------|:----------------------------|:------------------------|:---------------------------|:-------------------------------|
+| Text            | ✅ Top-tier NLP, long context, memory tools | 🚧 Early-stage NLP + sarcasm bias | ✅ Fluent, Google-grounded  | ✅ Safe, high reasoning | ✅ Fluent, strong Chinese  | ✅ Social language tuned       |
+| Audio           | ✅ Native voice + live sync (4o)            | ❌ Not available yet              | 🚧 Experimental             | ❌ No native audio      | 🚧 TTS only                | ✅ Multimodal via MetaVoice    |
+| 2D Image        | ✅ Vision+OCR+reasoning                     | ❌ Limited support                | ✅ Vision + grounding       | ✅ Basic vision         | ✅ Vision + code gen       | ✅ Segmentation + realism      |
+| 3D Asset        | 🚧 Plugin-based / research-only             | ❌ No 3D pipeline                 | 🚧 Sparse support           | ❌ Not yet available    | ✅ Text-to-mesh under test | ✅ Internal MetaHuman pipeline |
+| Animation/Video | 🚧 Video analysis, no gen                   | ❌ No support                     | ✅ Gemini Flash video input | ❌ Input only           | ✅ Research stage          | ✅ Video & gesture via EMU     |
