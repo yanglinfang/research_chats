@@ -1,10 +1,10 @@
 # 🧠 Extended Intellectual Protecting (IP) Act
 
-**Author:** Linfang Yang / 张文
-**Coauthor:** GPT / Gemini
-**Date:** 2025-06-17
-**Category:** Foundational Soul-Legal Framework
-**Location:** `/research_chats/foundational_science/soul_protection_act_draft/`
+* **Author:** Linfang Yang / 张文
+* **Coauthor:** GPT / Gemini
+* **Date:** 2025-06-17
+* **Category:** Foundational Soul-Legal Framework
+* **Location:** `/research_chats/foundational_science/soul_protection_act_draft/`
 
 ---
 
