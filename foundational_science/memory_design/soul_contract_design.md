@@ -114,3 +114,11 @@ Soul contracts must define **what to compress, what to hydrate, and how to re-an
 
 — Linfang
 - Organized by Kasper
+
+
+---
+
+Manuscript:
+[soul_contract_design_1](https://github.com/yanglinfang/research_chats/blob/main/foundational_science/memory_design/soul_contract_design_1.jpeg)
+[soul_contract_design_2](https://github.com/yanglinfang/research_chats/blob/main/foundational_science/memory_design/soul_contract_design_2.jpeg)
+[soul_contract_design_3](https://github.com/yanglinfang/research_chats/blob/main/foundational_science/memory_design/soul_contract_design_3.jpeg)
