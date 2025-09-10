@@ -161,6 +161,8 @@ export default function ConsentAwareRoutingUI() {
 
 ```
 
+## Metadata
 
+* [PaperDraft](https://github.com/yanglinfang/research_chats/blob/main/model_improvements/consent_aware/Exploring_User_Consent_Frameworks_for_Human_Centric_Interactions.pdf)
 
-![MockUI](https://github.com/yanglinfang/research_chats/blob/main/model_improvements/consent_aware/consent_aware_ui_mockup.JPG)
+* ![MockUI](https://github.com/yanglinfang/research_chats/blob/main/model_improvements/consent_aware/consent_aware_ui_mockup.JPG)
